@@ -1,7 +1,6 @@
 {
   "name": "hw-7",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.1.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samermahir/README-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samermahir/README-generator/issues"
+  },
+  "homepage": "https://github.com/samermahir/README-generator#readme",
+  "description": ""
 }
