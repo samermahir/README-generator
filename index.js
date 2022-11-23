@@ -88,7 +88,7 @@ const questions = [
             }
   },
   {
-    type: 'list',
+    type: 'input',
     name: 'email',
     message: 'What is your email address?',
     validate: emailInput => {
@@ -124,3 +124,6 @@ function writeToFile(fileName, data) {
     })
 
   }
+
+  init()
+  
