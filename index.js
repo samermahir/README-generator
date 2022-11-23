@@ -17,7 +17,22 @@ const questions = [
       }
     }
 
-  }
+  },
+  {
+    type: 'input',
+    message: "What is the title of your project?",
+    name: 'title',
+    validate: titleInput => {
+      if (titleInput) {
+              return true;
+              } else {
+                console.log ('Please enter your project title')
+                return false;
+              }
+            }
+
+
+  },
 ]
 
 
