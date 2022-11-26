@@ -15,16 +15,16 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ## Table of contents
-  *[License] (#License)
-  *[Description] (#Description)
-  *[Installation] (#Installation)
-  *[Usage] (#Usage)
-  *[Contributing] (#Contributing)
-  *[Tests] (#Tests)
-  *[Questions] (#Questions)
+  * [License](#license)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
   ## Licenses
-  ${data.license}
+  ${data.license ? data.license: ''}
 
   ## Description
   ${data.description}
@@ -43,8 +43,8 @@ function generateMarkdown(data) {
 
   ## Questions
   How to reach me with any questions
-  GitHub: https://github.com/${data.github}
-  Email: ${data.email}
+  * GitHub: https://github.com/${data.github}
+  * Email: ${data.email}
 
 
 `;

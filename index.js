@@ -27,6 +27,7 @@ const questions = [
       {name: 'MIT', value: "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)"},
       {name: "ISC", value: "[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)"},
       {name: "EPL 1.0", value: "[![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)"},
+      {name:"none", value: "none"},
     ]
 
 
@@ -131,6 +132,19 @@ const questions = [
     }
   }
 
+  },
+  {
+    type: 'input',
+    name: 'github',
+    message: 'What is your GitHub username?',
+    validate: githubInput => {
+      if (githubInput) {
+        return true;
+              } else {
+                console.log ('Please enter your GitHub username')
+                return false;
+              }
+            }
   }
 ]
 
