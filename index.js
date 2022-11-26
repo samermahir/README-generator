@@ -87,6 +87,36 @@ const questions = [
               }
             }
   },
+
+  {
+    type: 'input',
+    name: 'Contributing',
+    message: "contributing information",
+    validate: contributingInput => {
+      if (contributingInput) {
+        return true;
+              } else {
+                console.log ('Please enter your contributing instructions')
+                return false;
+              }
+            }
+
+  },
+
+  {
+    type: 'input',
+    name: 'test',
+    message: "test instructions",
+    validate: testInput => {
+      if (testInput) {
+        return true;
+              } else {
+                console.log ('Please enter your test instructions')
+                return false;
+              }
+            }
+
+  },
   {
     type: 'input',
     name: 'email',

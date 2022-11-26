@@ -1,4 +1,4 @@
-# fgdsga
+# README Generator
 
   ## Table of contents
   [License] (#license)
@@ -13,13 +13,13 @@
   MIT
 
   ## Description
-  sfagas
+  How to make a README
 
   ## Installation
-  gsfdags
+  use node.js
 
   ## Usage
-  gdfsag
+  will explain later
 
   ## Contributing
   undefined
@@ -30,6 +30,6 @@
   ## Questions
   How to reach me with any questions
   GitHub: https://github.com/undefined
-  Email: gsfdaga
+  Email: samermahir@yahoo.com
 
 
