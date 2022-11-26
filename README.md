@@ -1,25 +1,25 @@
-# README Generator
+# README
 
   ## Table of contents
-  [License] (#license)
-  [Description] (#description)
-  [Installation] (#installation)
-  [Usage] (#usage)
-  [Contributing] (#contributing)
-  [Tests] (#tests)
-  [Questions] (#questions)
+  *[License] (#License)
+  *[Description] (#Description)
+  *[Installation] (#Installation)
+  *[Usage] (#usage)
+  *[Contributing] (#Contributing)
+  *[Tests] (#Tests)
+  *[Questions] (#Questions)
 
 
-  MIT
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  How to make a README
+  testing
 
   ## Installation
-  use node.js
+  testing
 
   ## Usage
-  will explain later
+  testing
 
   ## Contributing
   undefined

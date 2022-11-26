@@ -24,9 +24,9 @@ const questions = [
     name: 'license',
     message: 'Which license do you want to use?',
     choices: [
-      "MIT",
-      "ISC",
-      "EPL 1.0"
+      {name: 'MIT', value: "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)"},
+      {name: "ISC", value: "[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)"},
+      {name: "EPL 1.0", value: "[![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)"},
     ]
 
 
