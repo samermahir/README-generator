@@ -1,13 +1,13 @@
 # README
 
   ## Table of contents
-  *[License] (#License)
-  *[Description] (#Description)
-  *[Installation] (#Installation)
-  *[Usage] (#usage)
-  *[Contributing] (#Contributing)
-  *[Tests] (#Tests)
-  *[Questions] (#Questions)
+  [License] (#License)
+  [Description] (#Description)
+  [Installation] (#Installation)
+  [Usage] (#usage)
+  [Contributing] (#Contributing)
+  [Tests] (#Tests)
+  [Questions] (#Questions)
 
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
