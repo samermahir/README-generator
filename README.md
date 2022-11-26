@@ -1,4 +1,6 @@
-# testing
+# README
+
+  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
   ## Table of contents
   * [License](#license)
@@ -6,17 +8,17 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
-  * [Tests](#tests)
+  * [Test](#test)
   * [Questions](#questions)
 
   ## Licenses
   [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
   ## Description
-  testing
+  allows users to make a README.md
 
   ## Installation
-  testing
+  install node.js and inquirier
 
   ## Usage
   testing
@@ -24,12 +26,12 @@
   ## Contributing
   undefined
 
-  ## Tests
-  undefined
+  ## Test
+  node.js on command line
 
   ## Questions
   How to reach me with any questions
-  *GitHub: https://github.com/testing
-  *Email: testing@yahoo.com
+  * GitHub: https://github.com/samermahir
+  * Email: samermahir@yahoo.com
 
 

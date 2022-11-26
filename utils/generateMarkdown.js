@@ -14,32 +14,34 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
+  ${data.license ? data.license: ''}
+
   ## Table of contents
   * [License](#license)
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
-  * [Tests](#tests)
+  * [Test](#test)
   * [Questions](#questions)
 
   ## Licenses
   ${data.license ? data.license: ''}
 
   ## Description
-  ${data.description}
+  * ${data.description}
 
   ## Installation
-  ${data.installation}
+  * ${data.installation}
 
   ## Usage
-  ${data.usage}
+  * ${data.usage}
 
   ## Contributing
-  ${data.contributing}
+  * ${data.contributing}
 
-  ## Tests
-  ${data.tests}
+  ## Test
+  * ${data.test}
 
   ## Questions
   How to reach me with any questions
