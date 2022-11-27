@@ -4,22 +4,15 @@ const fs = require('fs')
 
 const questions = [
   {
+    //Asks user for name
     type: "input",
     name: "name",
     message: "What is your name?",
-    validate: nameInput => {
-      if (nameInput) {
-        return true;
-      } else {
-        console.log ('Please enter your name')
-        return false;
-
-      }
-    }
 
   },
 
   {
+    //Gives user a choice of 3 licenses or no license
     type: 'list',
     name: 'license',
     message: 'Which license do you want to use?',
@@ -33,6 +26,7 @@ const questions = [
 
   },
   {
+    //Asks user the title for the project
     type: 'input',
     message: "What is the title of your project?",
     name: 'title',
@@ -40,18 +34,21 @@ const questions = [
 
   },
   {
+    //Asks user a brief description of the project
     type: 'input',
     name: 'description',
     message: "Enter a description of your project",
 
   },
   {
+    //Asks user what is needed to install for the project
     type: 'input',
     name: 'installation',
     message: "What are the instructions to install your project?",
    
   },
   {
+    //Explains how to use command line to produce README
     type: 'input',
     name: 'usage',
     message: "usage information",
@@ -59,6 +56,7 @@ const questions = [
   },
 
   {
+    //Asks if anyone wants to contribute to this project
     type: 'input',
     name: 'Contributing',
     message: "contributing information",
@@ -66,18 +64,21 @@ const questions = [
   },
 
   {
+    //Explains how to run a test on the command line
     type: 'input',
     name: 'test',
     message: "test instructions",
     
   },
   {
+    //Asks user for email address
     type: 'input',
     name: 'email',
     message: 'What is your email address?',
 
   },
   {
+    //Asks user for GitHub username
     type: 'input',
     name: 'github',
     message: 'What is your GitHub username?',

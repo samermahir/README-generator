@@ -1,6 +1,6 @@
-# README
+# readme
 
-  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of contents
   * [License](#license)
@@ -12,26 +12,26 @@
   * [Questions](#questions)
 
   ## Licenses
-  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  allows users to make a README.md
+  * testing
 
   ## Installation
-  install node.js and inquirier
+  * testing
 
   ## Usage
-  testing
+  * testing
 
   ## Contributing
-  undefined
+  * undefined
 
   ## Test
-  node.js on command line
+  * testing
 
   ## Questions
   How to reach me with any questions
-  * GitHub: https://github.com/samermahir
-  * Email: samermahir@yahoo.com
+  * GitHub: https://github.com/
+  * Email: sam
 
 
