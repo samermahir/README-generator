@@ -1,4 +1,4 @@
-# readme
+# README
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -31,7 +31,7 @@
 
   ## Questions
   How to reach me with any questions
-  * GitHub: https://github.com/
-  * Email: sam
+  * GitHub: https://github.com/samermahir
+  * Email: samermahir@yahoo.com
 
 
