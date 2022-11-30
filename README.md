@@ -13,24 +13,23 @@
 
   ## Demo
   
-  
   ## Licenses
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  * testing
+  * A way to display a quality README.md that will allow you to explain your project in detail from scratch.
 
   ## Installation
-  * testing
+  * Users should download node.js. Next you will need to install by typing npm init y. After that you will need to type on the command line npm i  
 
   ## Usage
-  * testing
+  * Node package installed you will need to type on the command line node index.js to use.
 
   ## Contributing
   * undefined
 
   ## Test
-  * testing
+  * n/a
 
   ## Questions
   How to reach me with any questions
